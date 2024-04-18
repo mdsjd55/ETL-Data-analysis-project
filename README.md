@@ -2,7 +2,8 @@
 
 ## Description
 
-### In this project, I've downloaded data from kaggle API by python, transformed and cleaned the data using pandas, loaded Data into SQL server for Data Analysis.
+### For this project, I used Python to download data from Kaggle API. 
+### Transform and clean the data using Pandas and loaded into SQL Server for data analysis.
 
 1. Microsoft SQL server
 2. Pandas
